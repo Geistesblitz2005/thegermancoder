@@ -1,0 +1,16 @@
+name: CustomEssentials
+version: 1.0.0
+author: Geistesblitz2005
+main: me.Gesitesblitz2005.customessentials.Main
+description: A customessentials plugin
+
+commands:
+  fly:
+    usage: /fly
+    description: Toggles flight
+  heal:
+    usage: /heal <player>
+    descriptions: Heals and feeds the given player
+  vanish:
+    usage: /vanish
+    descriptions: Hides from other players

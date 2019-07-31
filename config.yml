@@ -1,0 +1,8 @@
+Messages:
+  console_errorMessage: '&8(&c*&8) &7Only players may execute this command!'
+  no_permMessage: '&8(&c*&8) &7You are not allowed to execute this command!'
+
+#FlyCommand
+FlyCommand:
+  fly_enabled: '&8(&a*&8) &7You have &aenabled &7flight!'
+  fly_disabled: '&8(&c*&8) &7You have &cdisabled &7flight!'
